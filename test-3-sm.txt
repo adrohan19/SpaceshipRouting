@@ -1,0 +1,19 @@
+M
+3
+4
+//sample M mode input file with 3 3x3 levels
+//level 0
+E#..
+...#
+.#S.
+.##.
+//level 1
+E...
+##..
+...#
+..E.
+//level 2
+#..#
+H...
+....
+..E#
